@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Dustin Kreidler
+email: dkreidler@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Well, I was hoping this would be my cool github pages page... but it looks
   like I already did some gitHub training with Jekyll... and now I need to 
