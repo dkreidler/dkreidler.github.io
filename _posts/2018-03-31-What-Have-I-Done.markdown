@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "What Have I Done?"
-date:   2018-03-31 23:38:09 -0400
-categories: pages post
+date:   2018-03-31 23:38:09 -0700
+categories: jekyll update
 ---
 OK, apparently I need to learn how to use Jekyll, too. 
 
