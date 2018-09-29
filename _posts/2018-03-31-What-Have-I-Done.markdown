@@ -10,7 +10,7 @@ The end goal will be to import code from CodePen, personally hosted and develope
 projects, and stuff here on GitHub, and create an actual portfolio.
 
 # Things to add:
-+ CodePen Portfolio created for FreeCodeCamp front-end training
++ <a href="https://dkreidler.github.com/portfollio.html">CodePen Portfolio created for FreeCodeCamp</a> front-end training
      - (Note - update portfolio section...)
 + Strength App - form interface and resulting polar and/or radar plots
 + React audio player from scotch.io tutorial
